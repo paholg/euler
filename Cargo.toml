@@ -1,0 +1,10 @@
+[package]
+name = "euler"
+version = "0.1.0"
+authors = ["Paho Lurie-Gregg <paho@paholg.com>"]
+
+[dependencies]
+  primal = "*"
+  num = "*"
+  time = "*"
+  itertools = "*"
